@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please check my resume [here](https://github.com/zehao-zhao/me/files/AndyZhao_resume_2024_jan.pdf)
+Please check my resume [here](http://zehao-zhao.github.io/me/files/AndyZhao_resume.pdf)
+)
 
   
