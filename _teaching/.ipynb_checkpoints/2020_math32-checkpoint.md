@@ -1,7 +1,7 @@
 ---
-title: "MATH 32: Pre-Calculus"
+title: "Math 32: Pre-Calculus"
 collection: teaching
-type: "SUMMER 2020"
+type: "Summer 2020"
 permalink: /teaching/2022_math32
 venue: "UC Berkeley, Math"
 date: 2020-06-01
@@ -16,11 +16,4 @@ Description: Algebraic operations, real numbers, rectangular coordinates, graphs
 
 Textbook: Axler, Precalculus: A Prelude to Calculus.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
