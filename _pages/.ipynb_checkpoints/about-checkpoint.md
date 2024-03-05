@@ -12,6 +12,7 @@ Hi! I’m Andy, an graduate student at the Massachusetts Institute of Technology
 
 I obtained my quadruple degrees of B.A./B.S. in Computer Science(EECS), Data Science, Pure Mathematics, and Statistics from University of California, Berkeley. During the time, I am fortunate to be advised by Professor [James Demmel](https://people.eecs.berkeley.edu/~demmel/) on Eigenfaces and Federated Learning, [Saul Perlmutter](https://physics.berkeley.edu/people/faculty/saul-perlmutter) on the [Public Editor Project](https://www.publiceditor.io/), Dr.[Jiahao Yao](https://jiahaoyao.github.io/) on Machine Learning on Finance. 
 
+Here is my [resume](http://zehao-zhao.github.io/me/files/AndyZhao_resume.pdf)
 
 
 Updates
