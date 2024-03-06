@@ -12,8 +12,8 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://zehao-zhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://zehao-zhao.github.io/me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
 repository               : "https://github.com/zehao-zhao/me"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
