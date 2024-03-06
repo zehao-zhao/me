@@ -2,7 +2,7 @@
 title: "Intelligent detection and removing of straight periodic streaks on digital images"
 collection: publications
 permalink: /publication/2017_image
-excerpt: 'This paper highlights the shoreline of Bangladesh's southeast coast from 1980 to 2020 with a 10-year interval to automatically extract the shoreline and the changes in coastline position due to accretion and erosion. Threshold, Sobel, Prewitt, Canny and Robert generic edge detection algorithms are used for automatic shoreline extraction, including canny's performance in accurately detecting the coastline. The Digital Shoreline Analysis System (DSAS) is carried out using Net Shoreline Movement (NSM), End Point Rate (EPR), and Linear Regression Rate (LRR) to statistically measure shoreline changes. The findings suggest that in terms of accretion and erosion, the shoreline is dynamic, but overall accretion is dominated rather than erosion.'
+excerpt: 'Straight periodic steaks are common negative errors on images, an intelligent method is proposed to test and remove the periodic streaks on digital images. Because of many artificial errors or negative experiment factors, digital images are always contaminated by straight periodic streaks, which will correspondently incur error information on them. By Fast Two Dimensional Fourier Transform, the space spectra from these periodic streaks are discrete and can be test intelligently. After eliminate these frequency ingredient, the periodic streaks disappear after inverse Fourier Transform. The numerical simulation experiment shows that this method is robust in detesting and removing the periodic streaks on digital figures.'
 date: 2017-12-01
 venue: 'Journal of Physics'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/887/1/012078'
