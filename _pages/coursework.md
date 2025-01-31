@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Coursework
 These list consists of my coursework taken at UC Berkeley, MIT, and USC.
 
 ## Graduate Level Coursework
