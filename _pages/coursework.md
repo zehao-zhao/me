@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Coursework
+These list consists of my coursework taken at UC Berkeley, MIT, and USC.
+
 ## Graduate Level Coursework
 ### Computer Science
 - [6.5940 (TinyML and Efficient Deep Learning Computing)](https://hanlab.mit.edu/courses/2023-fall-65940)
