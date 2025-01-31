@@ -56,7 +56,7 @@ Computation)]
 - [CS 289A (Machine Learning
 )](https://people.eecs.berkeley.edu/~jrs/189/)
 - [INFO 259 (Natural Language Processing
-)](https://ucbnlp24.github.io/webpage/
+)](https://ucbnlp24.github.io/webpage/)
 
 ### Mathematics
 - [Math 53 (Multivariable Calculus)]
