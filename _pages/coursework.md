@@ -82,7 +82,7 @@ Computation)](https://dspace.mit.edu/bitstream/handle/1721.1/35259/15-094Spring-
 - [Data H195 (Senior Honors Thesis)](https://cdss.berkeley.edu/dsus/student-opportunities/data-science-honors-program)
 
 ### Electrical Engineering 
-- [Engin 7 (Computer Programming for Scientists and Engineers)]
+- [Engin 7 (Computer Programming for Scientists and Engineers)](https://brainload.github.io/cocclasses/coursedes/eng7.html)
 - [EE 16A (Designing Information Devices and Systems I)](https://www2.eecs.berkeley.edu/Courses/EECS16A/)
 - [EE 16B (Designing Information Devices and Systems II)](https://www2.eecs.berkeley.edu/Courses/EECS16B/)
 - [EE 120 (Signals and Systems)](https://www2.eecs.berkeley.edu/Courses/EE120/)
