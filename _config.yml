@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Andy (Zehao) Zhao"
 description              : &description "personal description"
 url                      : "https://zehao.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,8 +27,8 @@ author:
   bio              : "Graduate Student in Operation Research and Business Analytics at MIT"
   location         : "Cambridge, MA"
   employer         : "MIT"
-  uri              : # URL
-  email            : "andyzhao@mit.edu" 
+  uri              : "zehao.org"
+  email            : "andyzhao@mit.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "zehao.andy.zhao"
   lastfm           : # Username
   linkedin         : "zehao-zhao"
   mastodon         : # URL
