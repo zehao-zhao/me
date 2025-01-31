@@ -210,6 +210,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
+  coursework:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
